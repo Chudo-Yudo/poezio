@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><dc:description>Только что читал бурный спор между двумя моими друзьями-марксистами о том, было ли товарным хозяйство страны при СССР? То есть, чем был производимый и покупаемый в…</dc:description><meta:generator>LibreOffice/5.0.2.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><dc:date>2015-10-30T13:03:42.430019054</dc:date><dc:creator>Vyasheslav  </dc:creator><meta:editing-duration>PT8M41S</meta:editing-duration><meta:editing-cycles>4</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="4" meta:paragraph-count="44" meta:word-count="880" meta:character-count="6150" meta:non-whitespace-character-count="5294"/><meta:user-defined meta:name=""/><meta:user-defined meta:name="_fb2_FB2StylesIsLoaded">True</meta:user-defined><meta:user-defined meta:name="msapplication-TileColor">#004359</meta:user-defined><meta:user-defined meta:name="msapplication-TileImage">http://www.livejournal.com/mstile-144x144.png?v=49565</meta:user-defined><meta:user-defined meta:name="theme-color" meta:value-type="string">#004359</meta:user-defined><meta:user-defined meta:name="viewport" meta:value-type="string">width=device-width, initial-scale=1, minimum-scale=1</meta:user-defined><meta:user-defined meta:name="wpd_baseurl" meta:value-type="string">http://sha-julin.livejournal.com/86884.html?style=mine</meta:user-defined><meta:user-defined meta:name="wpd_date" meta:value-type="string">2015-09-29T20:34Z</meta:user-defined><meta:user-defined meta:name="wpd_url" meta:value-type="string">http://sha-julin.livejournal.com/86884.html?style=mine</meta:user-defined><meta:user-defined meta:name="wpd_version" meta:value-type="string">0.2</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="file:///home/slava/.config/libreoffice/4/user/uno_packages/cache/uno_packages/lueo6wm1.tmp_/OOoFBTools.oxt/styles/fb21_styles_ru.ott" xlink:href=""/></office:meta>
+ <office:meta><dc:description>Только что читал бурный спор между двумя моими друзьями-марксистами о том, было ли товарным хозяйство страны при СССР? То есть, чем был производимый и покупаемый в…</dc:description><meta:generator>LibreOffice/5.0.2.2$Linux_X86_64 LibreOffice_project/00m0$Build-2</meta:generator><dc:date>2015-10-31T22:30:33.140983797</dc:date><dc:creator>Vyasheslav  </dc:creator><meta:editing-duration>PT18M37S</meta:editing-duration><meta:editing-cycles>6</meta:editing-cycles><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="4" meta:paragraph-count="46" meta:word-count="871" meta:character-count="6164" meta:non-whitespace-character-count="5318"/><meta:user-defined meta:name=""/><meta:user-defined meta:name="_fb2_FB2StylesIsLoaded">True</meta:user-defined><meta:user-defined meta:name="msapplication-TileColor">#004359</meta:user-defined><meta:user-defined meta:name="msapplication-TileImage">http://www.livejournal.com/mstile-144x144.png?v=49565</meta:user-defined><meta:user-defined meta:name="theme-color" meta:value-type="string">#004359</meta:user-defined><meta:user-defined meta:name="viewport" meta:value-type="string">width=device-width, initial-scale=1, minimum-scale=1</meta:user-defined><meta:user-defined meta:name="wpd_baseurl" meta:value-type="string">http://sha-julin.livejournal.com/86884.html?style=mine</meta:user-defined><meta:user-defined meta:name="wpd_date" meta:value-type="string">2015-09-29T20:34Z</meta:user-defined><meta:user-defined meta:name="wpd_url" meta:value-type="string">http://sha-julin.livejournal.com/86884.html?style=mine</meta:user-defined><meta:user-defined meta:name="wpd_version" meta:value-type="string">0.2</meta:user-defined><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="file:///home/slava/.config/libreoffice/4/user/uno_packages/cache/uno_packages/lueo6wm1.tmp_/OOoFBTools.oxt/styles/fb21_styles_ru.ott" xlink:href=""/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">145</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">11</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">22015</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">20428</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">22209</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">21731</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">14612</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">72110</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">2604</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">13040</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">145</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">22013</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">20570</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">11</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">22207</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">21740</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">3</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">94</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
@@ -68,7 +68,7 @@
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1841486</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2120940</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -655,70 +655,76 @@
    <style:text-properties officeooo:rsid="00115c36" officeooo:paragraph-rsid="00115c36"/>
   </style:style>
   <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" officeooo:rsid="00127562" officeooo:paragraph-rsid="00127562"/>
+   <style:text-properties officeooo:rsid="00115c36" officeooo:paragraph-rsid="00205cec"/>
   </style:style>
   <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties style:text-underline-style="none" officeooo:rsid="00127562" officeooo:paragraph-rsid="00127562"/>
+   <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" officeooo:rsid="00127562" officeooo:paragraph-rsid="00127562"/>
   </style:style>
   <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties style:text-underline-style="none" officeooo:rsid="001322de" officeooo:paragraph-rsid="001322de"/>
+   <style:text-properties style:text-underline-style="none" officeooo:rsid="00127562" officeooo:paragraph-rsid="00127562"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00182829" officeooo:paragraph-rsid="00182829"/>
+   <style:text-properties style:text-underline-style="none" officeooo:rsid="001322de" officeooo:paragraph-rsid="001322de"/>
   </style:style>
   <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="001af1b6" officeooo:paragraph-rsid="001af1b6"/>
+   <style:text-properties officeooo:rsid="00182829" officeooo:paragraph-rsid="00182829"/>
   </style:style>
   <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="001af1b6" officeooo:paragraph-rsid="001af1b6"/>
   </style:style>
   <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
-   <style:text-properties officeooo:paragraph-rsid="000d6646"/>
   </style:style>
   <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
-   <style:text-properties officeooo:paragraph-rsid="00149c42"/>
+   <style:text-properties officeooo:paragraph-rsid="000d6646"/>
   </style:style>
   <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
-   <style:text-properties officeooo:rsid="0016d07d" officeooo:paragraph-rsid="0016d07d"/>
+   <style:text-properties officeooo:paragraph-rsid="00149c42"/>
   </style:style>
   <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
-   <style:text-properties officeooo:paragraph-rsid="0016d07d"/>
+   <style:text-properties officeooo:rsid="0016d07d" officeooo:paragraph-rsid="0016d07d"/>
   </style:style>
   <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
-   <style:text-properties officeooo:rsid="00182829" officeooo:paragraph-rsid="00182829"/>
+   <style:text-properties officeooo:paragraph-rsid="0016d07d"/>
   </style:style>
   <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
-   <style:text-properties officeooo:paragraph-rsid="001978ba"/>
+   <style:text-properties officeooo:rsid="00182829" officeooo:paragraph-rsid="00182829"/>
   </style:style>
   <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
+   <style:text-properties officeooo:paragraph-rsid="001978ba"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
    <style:text-properties officeooo:rsid="001a7260" officeooo:paragraph-rsid="001a7260"/>
   </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="List_20_Contents">
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="List_20_Contents">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" loext:contextual-spacing="false"/>
    <style:text-properties officeooo:paragraph-rsid="000a6099"/>
   </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="List_20_Contents" style:master-page-name="">
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="List_20_Contents" style:master-page-name="">
    <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" loext:contextual-spacing="false" style:page-number="auto"/>
    <style:text-properties officeooo:paragraph-rsid="000a6099"/>
   </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Quotations">
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Quotations">
    <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single"/>
   </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Quotations">
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Quotations">
    <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single" officeooo:paragraph-rsid="00115846"/>
   </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Quotations">
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Quotations">
    <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" officeooo:paragraph-rsid="00115846"/>
   </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Quotations">
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Quotations">
    <style:text-properties officeooo:paragraph-rsid="00115c36"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Quotations">
+   <style:text-properties officeooo:paragraph-rsid="001c6555"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-weight="bold"/>
@@ -771,6 +777,18 @@
   <style:style style:name="T17" style:family="text">
    <style:text-properties style:text-line-through-style="none" style:text-line-through-type="none" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties officeooo:rsid="001f4aeb"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties officeooo:rsid="00205cec"/>
+  </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:footnote-max-height="0cm">
     <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="none" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
@@ -807,59 +825,65 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
    </text:sequence-decls>
-   <text:p text:style-name="P16"><text:a xlink:type="simple" xlink:href="http://sha-julin.livejournal.com/?style=mine" office:target-frame-name="_self" xlink:show="replace" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T1">sha_julin</text:span></text:a></text:p>
-   <text:p text:style-name="P15"><text:a xlink:type="simple" xlink:href="http://sha-julin.livejournal.com/2015/?style=mine" office:target-frame-name="_self" xlink:show="replace" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">2015–1</text:a><text:a xlink:type="simple" xlink:href="http://sha-julin.livejournal.com/2015/10/?style=mine" office:target-frame-name="_self" xlink:show="replace" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">0–2</text:a><text:a xlink:type="simple" xlink:href="http://sha-julin.livejournal.com/2015/10/20/?style=mine" office:target-frame-name="_self" xlink:show="replace" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">0</text:a> 16:31:00</text:p>
+   <text:p text:style-name="P17"><text:a xlink:type="simple" xlink:href="http://sha-julin.livejournal.com/?style=mine" office:target-frame-name="_self" xlink:show="replace" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T1">sha_julin</text:span></text:a></text:p>
+   <text:p text:style-name="P16"><text:a xlink:type="simple" xlink:href="http://sha-julin.livejournal.com/2015/?style=mine" office:target-frame-name="_self" xlink:show="replace" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">2015–1</text:a><text:a xlink:type="simple" xlink:href="http://sha-julin.livejournal.com/2015/10/?style=mine" office:target-frame-name="_self" xlink:show="replace" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">0–2</text:a><text:a xlink:type="simple" xlink:href="http://sha-julin.livejournal.com/2015/10/20/?style=mine" office:target-frame-name="_self" xlink:show="replace" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">0</text:a> 16:31:00</text:p>
    <text:p text:style-name="Heading_20_1">К ликбезу «Что есть товар?» (о товарности в СССР)</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Что есть товар?</text:h>
-   <text:p text:style-name="P20">Только что читал бурный спор между двумя моими друзьями–марксистами о том, было ли товарным хозяйство страны при СССР?</text:p>
-   <text:p text:style-name="P1">Судя по всему, имеется ввиду этот спор, вообще‑то, в таких случаях, принято давать ссылки.</text:p>
-   <text:p text:style-name="P20">То есть, чем был производимый и покупаемый в магазинах продукт, были ли товарно–денежные отношения?</text:p>
+   <text:p text:style-name="P21">Только что читал бурный спор между двумя моими друзьями–марксистами о том, было ли товарным хозяйство страны при СССР?</text:p>
+   <text:p text:style-name="P2">Судя по всему, имеется ввиду этот спор</text:p>
+   <text:p text:style-name="P2"><text:a xlink:type="simple" xlink:href="http://lenin-kerrigan.livejournal.com/782852.html?thread=20123652&amp;style=mine" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T21">http://lenin-kerrigan.livejournal.com/782852.html?thread=20123652&amp;style=mine</text:span></text:a></text:p>
+   <text:p text:style-name="P2">, вообще‑то, в таких случаях, принято давать ссылки.</text:p>
+   <text:p text:style-name="P21">То есть, чем был производимый и покупаемый в магазинах продукт, были ли товарно–денежные отношения?</text:p>
    <text:p text:style-name="P1">Постановка вопроса <text:span text:style-name="T12">абсолютно </text:span>верная.</text:p>
    <text:p text:style-name="Quotations"><text:span text:style-name="T10">Спорщики активно использовали цитаты из классиков и статьи из энциклопедий. При этом, на мой взгляд, и классики, и оба спорщика были, по–своему, правы.</text:span></text:p>
-   <text:p text:style-name="P18">Ну, решил и я высказаться на эту тему. Но не в споре.</text:p>
-   <text:p text:style-name="P19">Ибо суть спора, на эту важную (без шуток) тему кроется в применение терминов, а не в понимании самих товарно–денежных отношений.</text:p>
-   <text:p text:style-name="P2">Суть спора была не терминологическая, а понятийная.</text:p>
-   <text:p text:style-name="P17">И так, что же я имею сказать, в своём традиционном ликбезе?</text:p>
-   <text:p text:style-name="P17">Ясно, что всё, что делает и потребляет человечество суть есть продукт! И, собственно, половина экономики состоит из производства продукта.</text:p>
+   <text:p text:style-name="P19">Ну, решил и я высказаться на эту тему. Но не в споре.</text:p>
+   <text:p text:style-name="P20">Ибо суть спора, на эту важную (без шуток) тему кроется в применение терминов, а не в понимании самих товарно–денежных отношений.</text:p>
+   <text:p text:style-name="P3">Суть спора была не терминологическая, а понятийная.</text:p>
+   <text:p text:style-name="P18">И так, что же я имею сказать, в своём традиционном ликбезе?</text:p>
+   <text:p text:style-name="P18">Ясно, что всё, что делает и потребляет человечество суть есть продукт! И, собственно, половина экономики состоит из производства продукта.</text:p>
    <text:p text:style-name="Quotations"><text:span text:style-name="T17">Ясно, что этот продукт потребляется человеческим сообществом. И вторая половина экономики</text:span><text:span text:style-name="T7"> — </text:span><text:span text:style-name="T8">э</text:span><text:span text:style-name="T17">то распределение этого продукта среди тех, кто его потребит.</text:span></text:p>
-   <text:p text:style-name="Quotations"><text:span text:style-name="T11">То есть вся экономика</text:span><text:span text:style-name="T5"> — </text:span><text:span text:style-name="T6">э</text:span><text:span text:style-name="T11">то производство и распределение продукта. Всё остальное</text:span><text:span text:style-name="T5"> — </text:span><text:span text:style-name="T6">э</text:span><text:span text:style-name="T11">то инструменты экономики и её методы.</text:span></text:p>
-   <text:p text:style-name="P3">Всё верно, политэкономия марксизма рассматривает товар <text:soft-page-break/><text:span text:style-name="T13">экономический уклад, как единство производства–потребления.</text:span></text:p>
-   <text:p text:style-name="P8"><text:span text:style-name="T10">И вот здесь как раз можно перейти к товару.</text:span></text:p>
+   <text:p text:style-name="Quotations"><text:span text:style-name="T11">То есть вся экономика</text:span><text:span text:style-name="T5"> — </text:span><text:span text:style-name="T6">э</text:span><text:span text:style-name="T11">то производство и распределение </text:span><text:soft-page-break/><text:span text:style-name="T11">продукта. Всё остальное</text:span><text:span text:style-name="T5"> — </text:span><text:span text:style-name="T6">э</text:span><text:span text:style-name="T11">то инструменты экономики и её методы.</text:span></text:p>
+   <text:p text:style-name="P4">Всё верно, политэкономия марксизма рассматривает товар <text:span text:style-name="T13">экономический уклад, как единство производства–потребления.</text:span></text:p>
+   <text:p text:style-name="P9"><text:span text:style-name="T10">И вот здесь как раз можно перейти к товару.</text:span></text:p>
    <text:p text:style-name="Quotations"><text:span text:style-name="T14">Товар</text:span><text:span text:style-name="T9"> — </text:span><text:span text:style-name="T4">э</text:span><text:span text:style-name="T14">то тот продукт, который распределяется (!) среди потребителей через процедуру купли/продажи. То есть товар возникает из продукта в результате акта продажи, то есть обмена продукта на другой продукт или суррогат продукта (деньги), имеющего эквивалентную обменную стоимость.</text:span></text:p>
-   <text:p text:style-name="P4">Существенная ошибка, товар является товаром <text:span text:style-name="T16">со своей стоимостью</text:span>, уже на стадии производства, в обращение <text:span text:style-name="T15">(обмене)</text:span> же он только «уточняет» свою <text:span text:style-name="T16">цену</text:span>.</text:p>
+   <text:p text:style-name="P5">Существенная ошибка, товар является товаром <text:span text:style-name="T16">со своей стоимостью</text:span>, уже на стадии производства, в обращение <text:span text:style-name="T15">(обмене)</text:span> же он только «уточняет» свою <text:span text:style-name="T16">цену</text:span>.</text:p>
    <text:p text:style-name="Quotations">Но это всё равно распределение, только в соответствии с имущественным цензом. Кто богатый<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">в</text:span>ыбирает себе любой продукт по вкусу, получая за большое количество суррогата продукта, что хочет и сколько хочет. Менее богатые<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">п</text:span>окупают то, что осталось по принципу «что могу позволить». Бедные<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">п</text:span>о остаточному принципу «что перепадёт».</text:p>
-   <text:p text:style-name="P9"><text:span text:style-name="T16">Это ошибочное суждение, например, «бедными» могут быть и капиталисты, в политэкономия деление по доходам вторично, а первично по отношению к средствам производства и соответствующему месту в производстве, так пролетарий — наемный работник и его доля потребления определяется стоимостью воспроизводства рабочей силы.</text:span></text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="Quotations">Например, хлеб<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">о</text:span>н просто хлеб. Его едят. Но вот какое‑то сообщество силами ряда своих членом выпекает большое количество хлеба для членов сообщества. Если этот хлеб будет роздан членам сообщества, напрямую распределён между ними<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">о</text:span>н не станет товаром. Он останется просто продуктом. Соответственно хозяйство, где он так распределяется<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">н</text:span>етоварное.</text:p>
-   <text:p text:style-name="P10">Совершенно верно, классический пример по Марксу — община, собственно само возникновение товарообмена, от отсылает к моменту начала межобщинного обмена. </text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T16">Это ошибочное суждение, например, «бедными» могут быть и капиталисты, в политэкономия деление по доходам вторично, а первично по отношению к средствам производства и соответствующему месту в производстве, так пролетарий — наемный работник и его доля потребления определяется стоимостью воспроизводства рабочей силы.</text:span></text:p>
    <text:p text:style-name="P10"/>
+   <text:p text:style-name="Quotations">Например, хлеб<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">о</text:span>н просто хлеб. Его едят. Но вот какое‑то сообщество силами ряда своих членом выпекает большое количество хлеба для членов сообщества. Если этот хлеб будет роздан членам сообщества, напрямую распределён между ними<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">о</text:span>н не станет товаром. Он останется просто продуктом. Соответственно хозяйство, где он так распределяется<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">н</text:span>етоварное.</text:p>
+   <text:p text:style-name="P11">Совершенно верно, классический пример по Марксу — община, собственно само возникновение товарообмена, от отсылает к моменту начала межобщинного обмена. </text:p>
    <text:p text:style-name="P11"/>
-   <text:p text:style-name="Quotations">Если те, кто выпекли хлеб, начнут его распределять путём обмена на другой продукт или суррогат продукта<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">о</text:span>н станет товарным. И хозяйство, где большая часть продукта распределяется через обмен<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">т</text:span>оварное.</text:p>
-   <text:p text:style-name="P5">Да.</text:p>
-   <text:p text:style-name="Quotations">Следовательно, хозяйство в СССР было товарным.</text:p>
-   <text:p text:style-name="P8"/>
-   <text:p text:style-name="P12">Да, но ...</text:p>
    <text:p text:style-name="P12"/>
-   <text:p text:style-name="Quotations"><text:soft-page-break/>Ну а как же быть с извлечением прибыли? Ведь есть слова классиков о том, что товар продаётся для получения прибыли?</text:p>
+   <text:p text:style-name="Quotations">Если те, кто выпекли хлеб, начнут его распределять путём обмена на другой продукт или суррогат продукта<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">о</text:span>н станет товарным. И хозяйство, где большая часть продукта распределяется через обмен<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">т</text:span>оварное.</text:p>
+   <text:p text:style-name="P6">Да.</text:p>
+   <text:p text:style-name="Quotations">Следовательно, хозяйство в СССР было товарным.</text:p>
+   <text:p text:style-name="P9"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P13">Да, но ...</text:p>
+   <text:p text:style-name="P13"/>
+   <text:p text:style-name="Quotations">Ну а как же быть с извлечением прибыли? Ведь есть слова классиков о том, что товар продаётся для получения прибыли?</text:p>
    <text:p text:style-name="Quotations">Ну так это конкретный вариант распределения<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">т</text:span>оварный капиталистический. То есть товар при капитализме, это источник финансовой прибыли. Вернее, его обмен, в результате которого часть средств обмена остаётся в виде прибыли у продавца.</text:p>
-   <text:p text:style-name="P5">Не совсем ...</text:p>
+   <text:p text:style-name="P6">Не совсем ...</text:p>
    <text:p text:style-name="Quotations">А если конкретный вариант распределения<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">т</text:span>оварный социалистический, то всё выглядит иначе, ибо нет извлечения финансовой прибыли, которая присваивается капиталистом. Но всё равно используется обмен и такое средство обмена, как деньги. Просто сам механизм используется для учёта труда потребителя и положенного ему за это количества распределяемого продукта.</text:p>
-   <text:p text:style-name="P6">Как выражается один мой знакомый позитивист, социализм это всего лишь другая система бухучета, что конечно неверно. </text:p>
-   <text:p text:style-name="P13">То есть спор «было ли хозяйство в СССР товарным?»<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">о</text:span>н сугубо терминологический. Если смотреть с точки зрения товара в капитализме<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">н</text:span>е было. </text:p>
-   <text:p text:style-name="P13"/>
-   <text:p text:style-name="P14">На а если посмотреть с феодальной глубинке, то и капитализма н</text:p>
-   <text:p text:style-name="P13"/>
-   <text:p text:style-name="P13"/>
-   <text:p text:style-name="P13">Но оно тогда таковым не было и более ранние времена, когда крестьяне на ярмарках продавали продукты своего труда.</text:p>
-   <text:p text:style-name="P8">Но если товар<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">э</text:span>то объект обмена, то само понятие товара выходит за рамки капиталистических отношений. И с такой точки зрения хозяйство в СССР было товарным. Но товарность была другая. И система распределения<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">т</text:span>оже другая, хотя внешне схожая (взял деньги и пошёл купил в магазине).</text:p>
-   <text:p text:style-name="P8">Более того, в СССР огромное количество «капиталистического» товара товаром не являлось<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">т</text:span>руд, здравоохранение, тело, знания и так далее и тому подобное. То есть в любом случае товарность социализма много меньше товарности капитализма.</text:p>
-   <text:p text:style-name="P8">Ну и что в итоге?</text:p>
-   <text:p text:style-name="P8">Если мы приходим к пониманию, что вся экономика состоит из производства продукта и его распределения, то принципиальность спора, было хозяйство в СССР товарным или нет, исчезает. Есть огромное количество вариантов систем распределения продукта, плавно перетекающих один в другой. Обмен продукта<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">ч</text:span>астный случай распределения продукта. Продажа с целью извлечения прибыли и присвоения этой прибыли<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">ч</text:span>астный случай обмена продукта.</text:p>
-   <text:p text:style-name="P8">И хозяйство СССР было в промежуточном положении между прямым коммунистическим распределением и построенном в основном на обмене капиталистическим. И она первые десятилетия существования СССР шло от капиталистической схемы к коммунистической, уменьшая роль денег и вывод за рамки обмена, к прямому распределению, всё большее <text:soft-page-break/>количество продукта. А впоследствии, особенно после косыгинских реформ, когда во главу угла стали ставить параметры рентабельности предприятия и его прибыль<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">о</text:span>братно к капиталистической.</text:p>
-   <text:p text:style-name="P8">Ну а если мы считаем, что есть распределение и обмен, как разные подходы… Или если начинаем воспринимать деньги и прибыль, как основу экономики… Тогда да, спор заходит в тупик.</text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="Strong_20_Emphasis">Метки: </text:span><text:a xlink:type="simple" xlink:href="http://sha-julin.livejournal.com/tag/Ликбез?style=mine" office:target-frame-name="_self" xlink:show="replace" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Ликбез</text:a></text:p>
-   <text:p text:style-name="P7">Комментарии к этой записи отключены автором</text:p>
-   <text:p text:style-name="P7"/>
+   <text:p text:style-name="P7">Как выражается один мой знакомый позитивист, социализм это всего лишь другая система бухучета, что конечно неверно. </text:p>
+   <text:p text:style-name="P14">То есть спор «было ли хозяйство в СССР товарным?»<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">о</text:span>н сугубо терминологический. Если смотреть с точки зрения товара в капитализме<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">н</text:span>е было. </text:p>
+   <text:p text:style-name="P14"/>
+   <text:p text:style-name="P15"/>
+   <text:p text:style-name="P14"/>
+   <text:p text:style-name="P14"/>
+   <text:p text:style-name="Quotations">Но оно тогда таковым не было и более ранние времена, когда крестьяне на ярмарках продавали продукты своего труда.</text:p>
+   <text:p text:style-name="Quotations">Но если товар<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">э</text:span>то объект обмена, то само понятие товара выходит за рамки капиталистических отношений. И с такой точки зрения хозяйство в СССР было товарным. Но товарность была другая. И система распределения<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">т</text:span>оже другая, хотя внешне схожая (взял деньги и пошёл купил в магазине).</text:p>
+   <text:p text:style-name="Quotations">Более того, в СССР огромное количество «капиталистического» товара товаром не являлось<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">т</text:span>руд, здравоохранение, тело, знания и так далее и тому подобное. То есть в любом случае товарность социализма много меньше товарности капитализма.</text:p>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="Quotations">Ну и что в итоге?</text:p>
+   <text:p text:style-name="P22">Если мы приходим к пониманию, что вся экономика состоит из производства продукта и его распределения, то принципиальность спора, было хозяйство в СССР товарным или <text:soft-page-break/>нет, исчезает. </text:p>
+   <text:p text:style-name="P22"/>
+   <text:p text:style-name="P22">Есть огромное количество вариантов систем распределения продукта, плавно перетекающих один в другой. Обмен продукта<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">ч</text:span>астный случай распределения продукта. Продажа с целью извлечения прибыли и присвоения этой прибыли<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">ч</text:span>астный случай обмена продукта.</text:p>
+   <text:p text:style-name="Quotations"><text:span text:style-name="T11">И хозяйство СССР было в промежуточном положении между прямым коммунистическим распределением и построенном в основном на обмене капиталистическим. </text:span>И она первые десятилетия существования СССР шло от капиталистической схемы к коммунистической, уменьшая роль денег и вывод за рамки обмена, к прямому распределению, всё большее количество продукта. А впоследствии, особенно после косыгинских реформ, когда во главу угла стали ставить параметры рентабельности предприятия и его прибыль<text:span text:style-name="T2"> — </text:span><text:span text:style-name="T3">о</text:span>братно к капиталистической.</text:p>
+   <text:p text:style-name="Quotations"><text:span text:style-name="T11">Ну а если мы считаем, что есть распределение и обмен, как разные подходы…</text:span> <text:span text:style-name="T19">Или если начинаем воспринимать деньги и прибыль, как основу экономики…</text:span> <text:span text:style-name="T18">Тогда да, спор заходит в тупик.</text:span></text:p>
+   <text:p text:style-name="Quotations"/>
+   <text:p text:style-name="Quotations"><text:span text:style-name="Strong_20_Emphasis">Метки: </text:span><text:a xlink:type="simple" xlink:href="http://sha-julin.livejournal.com/tag/Ликбез?style=mine" office:target-frame-name="_self" xlink:show="replace" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Ликбез</text:a></text:p>
+   <text:p text:style-name="Quotations">Комментарии к этой записи отключены автором</text:p>
+   <text:p text:style-name="P8"/>
   </office:text>
  </office:body>
 </office:document>
